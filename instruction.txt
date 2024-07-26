@@ -1,0 +1,12 @@
+* In btcpp_ros2_interfaces:
+    - mkdir build
+    - cd build
+    - cmake ..
+    - make
+
+* In behaviortree_ros2:
+    - mkdir build
+    - cd build
+    - cmake ..
+    - make
+
